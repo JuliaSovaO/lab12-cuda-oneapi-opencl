@@ -1,3 +1,7 @@
+integrate_cuda
+.PVS-Studio/
+.idea/
+
 # Prerequisites
 *.d
 
