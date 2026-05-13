@@ -1,4 +1,5 @@
 integrate_cuda
+integrate_opencl
 .PVS-Studio/
 .idea/
 
